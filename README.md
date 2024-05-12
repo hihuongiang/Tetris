@@ -17,4 +17,3 @@
 - Mũi tên lên : xoay block
 - Mũi tên xuống : ấn giữ để block rơi nhanh hơn
 - SPACE : dừng game tam thời cho đến khi ấn lại
-
