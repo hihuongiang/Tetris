@@ -1,6 +1,6 @@
 # Tetris
 # Giới thiệu chung
-- Đây là một trò chơi xếp các block để thành một hàng đầy và ăn điểm
+- Đây là một trò chơi xếp các block với các hình dạng khác nhau để thành một hàng đầy và ăn điểm
 - Được viết bằng ngôn ngữ C++, dùng thư viện đồ họa SDL2
 # Hướng dẫn chơi
 - Các block tự động rơi xuống từ góc trên bên trái màn hình
