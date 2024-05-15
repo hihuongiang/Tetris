@@ -17,6 +17,9 @@
 # Công cụ làm game
 - IDE: Code::Blocks 20.03
 - Thư viện: SDL2-2.26.3, SDL2_image-2.6.3, SDL2_ttf-2.20.2, SDL2_mixer-2.6.3
+# Giao diện intro:
 <img src="https://github.com/hihuongiang/Tetris/assets/161148373/0c42d1ad-d813-40b2-b0e2-e897db6ba255" alt="..." width="250" />
+# Giao diện chơi game chính:
 <img src="https://github.com/hihuongiang/Tetris/assets/161148373/4c6f0e6c-0040-4ba6-94e4-466118d4bbb4" alt="..." width="250" />
+# Giao diện kết thúc game:
 <img src="https://github.com/hihuongiang/Tetris/assets/161148373/6656c9c2-02a0-44fc-bf98-df953ee4971e" alt="..." width="250" />
