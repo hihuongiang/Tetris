@@ -4,7 +4,7 @@
 - Được viết bằng ngôn ngữ C++, dùng thư viện đồ họa SDL2
 # Hướng dẫn chơi
 - Các block tự động rơi xuống từ góc trên bên trái màn hình
-- Người chơi sử dụng các phim chức năng để di chuyển và xoay block rơi vào vị trí mong muốn
+- Người chơi sử dụng các phím chức năng để di chuyển và xoay block rơi vào vị trí mong muốn
 - Mỗi hàng đầy sẽ biến mất và người chơi được cộng 10 điểm
 - Game kết thúc khi có một cột bị đầy
 # Các phím chức năng
